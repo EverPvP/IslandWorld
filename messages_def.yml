@@ -91,7 +91,7 @@ info-remove-admin: Admin removed %name% from your island.
 info-removed-ok: Player %name% removed you from their island.
 info-removed-admin: Admin removed you from party.
 info-leave-ok: Removed from %name% island.
-info-tele-spawn: Teleported to spawn.
+info-tele-spawn: Teleporterede dig til spawn.
 info-fixhome: Fixed home coords.
 info-lock-disabled: Lock is not available on our server.
 info-lock-self: You can't lock yourself.
