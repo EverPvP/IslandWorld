@@ -1,6 +1,6 @@
 # Language File : da_DK - Dansk
 error-no-perms: Du har ikke tilladelse til at bruge denne kommando
-error-no-perms-biome: Du har ikke tilladlse til at bruge dette biome.
+error-no-perms-biome: Du har ikke tilladlse til at bruge denne biome.
 error-regen: Genopbygning i gang, prøv igen senere.
 error-start: IslandWorld blev ikke startet korrekt. Tjek i loggen
 error-world: Kan ikke bestemme den korrekte verden.
@@ -19,34 +19,34 @@ error-no-island-party: Du har ikke en ø, eller party.
 error-outside: Du kan ikke sætte home location ude fra din ø.
 error-expell: Ingen players er på denne ø.
 error-expell-outside: Denne player er ikke på denne ø.
-error-add-have-island: Kan ikke add denne player til din ø, player har en ø.
-error-add-have-party: Kan ikke add denne player til denne ø, da player er addede til en anden ø.
-error-add-limit: Kan ikke add denne player til denne ø, du har nået det maksimale.
-error-add-already: Player %name% er allerede add til din ø.
-error-not-online: Player %name% er ikke online, eller findes ikke.
-error-remove-not-added: Player %name% er fjernet fra din ø.
+error-add-have-island: Kan ikke tilføje denne player til din ø, player har en ø.
+error-add-have-party: Kan ikke tilføje denne player til denne ø, da player er addede til en anden ø.
+error-add-limit: Kan ikke tilføje denne player til denne ø, du har nået det maksimale antal spillere.
+error-add-already: Spiller %name% er allerede tilføjet til din ø.
+error-not-online: Spiller %name% er ikke online, eller findes ikke.
+error-remove-not-added: Spiller %name% er fjernet fra din ø.
 error-tp-have-island: Du kan ikke bruge tp, i mens du har din egen ø.
 error-tp-no-party: Du har ikke adgang til at tp til %name%'s ø.
 error-tp-no-island: Player %name% har ikke en ø.
 error-no-player: Du prøver at tp til den forkerte spiller.
-error-leave: Kan ikke forlade, du er ikke medlem af nogen party.
+error-leave: Kan ikke forlade, du er ikke medlem af et party.
 error-fixhome: Der er et problem med kordinater, hop ind på forum.everpvp.dk og skriv det under Skyblock! 
-error-cha: Der er et problem med denne challeng.
+error-cha: Der er et problem med denne challenge.
 error-cha-id: Ukendt challenge Id.
-error-cha-order: Kan ikke afslutte %id%, bliv færdig med den tidligere challenges først.
-error-no-visit: Besøgende kommands er ikke tilladt.
+error-cha-order: Kan ikke afslutte %id%, bliv færdig med den tidligere challenge først.
+error-no-visit: Vedkommende vil ikke have besøg.
 error-visit-no-island: Player %name% har ingen ø.
-error-visit-owner-wait: Kan ikke lave besøgende anmodninger, %name% svarede ikke på den sidste anmodning.
-error-visit-visitor-wait: Kan ikke lave et besøg anmodning, den sidste er ikke svaret i nu.
-error-visit-no-player: Forkert player navn, ellers er player offline.
-error-visit-owner-no-reply: Du svaret ikke på %name%'s anmodning. Anmodning fjernet.
+error-visit-owner-wait: Du kan ikke sende en ny, %name% svarede ikke på den sidste anmodning.
+error-visit-visitor-wait: Kan ikke lave en besøgs anmodning, den sidste er ikke svaret endnu.
+error-visit-no-player: Forkert Spiller navn, ellers er Spiller offline.
+error-visit-owner-no-reply: Du har svaret ikke på %name%'s anmodning. Anmodning fjernet.
 error-visit-visitor-no-reply: '%name% svarede ikke på din sidste anmodning. Anmodning fjernet.'
 error-visit-request-you-deny: Du afviste %name%'s anmodning.
 error-visit-request-deny: '%name% afviste din anmodning.'
-error-visit-spawn: Kan ikke besøge %name% ø, der er et problem med spawn.
+error-visit-spawn: Kan ikke besøge %name%'s ø, derer noget galt med hans ø spawn.
 error-visit-your-spawn: '%name% ville besøge din ø, men der er et problem med dit spawn.'
 error-visit-self: Du kan ikke besøge din egen ø.
-error-visits-blocked: Besøgende er sat til "Afvist".
+error-visits-blocked: Spilleren vil ikke have besøg lige nu!.
 error-visits-not-blocked: Besøgende ville ikke længere blive afvist automatisk. 
 error-visits-blocked-here: Besøgende på %name% ø er blokeret på denne
 error-party-owner-no-reply: Du svaret ikke på %name%'s anmodning. Anmodning fjernet.
@@ -54,66 +54,66 @@ error-party-visitor-no-reply: '%name% svaret ikke på din anmodning. Anmodning f
 error-party-owner-wait: Kan ikke lave party anmodning, %name% svaret ikke din sidste anmodning.
 error-party-visitor-wait: Kan ikke lave party anmodning, du venter allerede svar.
 error-delete-respond: Du besvaret ikke den sidste anmodning.
-error-delete-comm: Kan ikke bruge denne kommand.
+error-delete-comm: Kan ikke bruge denne kommando.
 error-no-region-here: Du er ikke i nogen region.
-error-tp-while-falling: Kan ikke teleporter, når du falder.
-error-teleport-break: Du ville ikke blive teleported, da du rørte dig.
-error-home-limit: Du kan ikke sætte flere end %count% homes.
+error-tp-while-falling: Kan ikke teleportere, når du falder.
+error-teleport-break: Du ville ikke blive teleportered, da du rørte dig.
+error-home-limit: Du kan ikke have mere end %count% homes.
 error-no-home: '%name% er ikke en af dine homes.'
 error-is-no-home: Din ø har ingen homes.
-error-outside-island: Du er udenfor din ø.
+error-outside-island: Du er ikke på din ø mere.
 error-invalid-biome: 'Fejl, forkert biome: %biome%.'
 error-rank-not-updated: Fejl, rank ikke opdateret, tjek din (mysql) konfiguration.
 error-tp-not-safe: Der er problemer med dit home. Prøv og skriv /is fixhome eller skrive på forum.everpvp.com under Skyblock.
 error-sethome-loc: Kan ikke sætte home her. Du skal stå på en solid overflade.
 error-already-opened: Din ø er allerede åben.
 error-already-closed: Din ø er allerede låst.
-error-create-limit: Du har opnået en limit (%limit%). Du kan ikke lave flere øer.
+error-create-limit: Du har opnået din grænse (%limit%). Du kan ikke lave flere øer.
 error-no-more-extend: Du kan ikke udvide din ø mere.
 info-biome: 'Biome på denne placering: %biome%.'
 info-biomes: 'Biomes list:'
-info-biome-changed: Biome på denne ø er skiftede til %biome%.
-info-biome-chunk-changed: Biome i denne korrekte chunk er skiftede til %biome%.
-info-visit-visitor-tp: '%name% teleported til din ø.'
+info-biome-changed: Biome på denne ø er skiftet til %biome%.
+info-biome-chunk-changed: Biome i denne korrekte chunk er skiftet til %biome%.
+info-visit-visitor-tp: '%name% teleportede til din ø.'
 info-visit-visitor-tp-open: '%name% besøger din ø.'
-info-visit-visitor: Teleported til %name% ø.
+info-visit-visitor: Teleportede til %name% ø.
 info-visit-visitor-open: Du besøger %name% ø.
 info-created: Ø oprettet.
 info-deleted: Ø fjernet.
 info-loc-changed: Location ændret.
-info-expell: Du bortvise %count% players fra din ø.
-info-expelled: Du blev bortvis fra denne players %name% ø.
-info-expell-op: '%name% is bypassing your expell command.'
-info-add-ok: Player %name% added til din ø.
-info-added-ok: Player %name% added dig til deres ø.
-info-remove-ok: Player %name% blev fjernet fra din ø.
-info-remove-admin: Admin fjernet %name% fra din ø.
-info-removed-ok: Player %name% fjernet dig fra øen.
-info-removed-admin: Admin fjernet dig fra dit party.
-info-leave-ok: Fjernet fra %name% ø.
-info-tele-spawn: Teleported til spawn.
-info-fixhome: Fixed home koords.
-info-lock-disabled: "Låst" er ikke tilladt på denne server.
+info-expell: Du bortvise %count% Spiller fra din ø.
+info-expelled: Du blev bortvis fra denne Spillers %name% ø.
+info-expell-op: %name% kan ikke bortvises
+info-add-ok: Spiller %name% blev tilføjet til din ø.
+info-added-ok: Spiller %name% tilføjede dig til hans ø.
+info-remove-ok: Spilleren %name% blev fjernet fra din ø.
+info-remove-admin: Admin fjernede %name% fra din ø.
+info-removed-ok: spiller %name% fjernede dig fra øen.
+info-removed-admin: Admin fjernede dig fra dit party.
+info-leave-ok: Fjernet fra %name%'s ø.
+info-tele-spawn: Teleportede til spawn.
+info-fixhome: Dit Ø home er blevet fixed.
+info-lock-disabled: udelukelse er ikke tilladt på denne server.
 info-lock-self: Du kan ikke udlukke dig selv.
-info-lock-member: Player %nick% dette medlem af din ø, kan ikke udlukke ham.
-info-lock-already: Player %nick% er allerede blocked
+info-lock-member: Spiller %nick% dette medlem af din ø, kan ikke udlukke ham.
+info-lock-already: Spiller %nick% er allerede blocked
 info-lock-ok: Din island er deaktiveret.
-info-lock-name-ok: Player %name% låst og vil ikke kunne få adgang til din ø.
+info-lock-name-ok: Spiller %name% låst og vil ikke kunne få adgang til din ø.
 info-flying-disabled: Deaktiveret flying, flyve ud af din ø er ikke tilladt.
 info-flying-on: Flying aktiveret.
 info-flying-off: Flying deaktiveret.
 info-flying-dis: Du kan ikke flyve ud af din ø!
 info-flying-dis-tele: Deaktiver flying på din ø, gælder ikke udefra din ø.
 info-unlock-ok: Your island is now unlocked!
-info-unlock-name-ok: Player %name% blev fjernet fra block list, player kan nu besøge din ø.
+info-unlock-name-ok: Spiller %name% blev fjernet fra block list, player kan nu besøge din ø.
 info-lock-move: Denne island er låst, du kan ikke besøge den.
 info-cha-header: 'Challenge [%id%] : '
-info-cha-already: Allerede klaret!
+info-cha-already: Allerede klaret!?
 info-cha-completed: Challenge %id% klaret!
-info-cha-reward-added: Præmie added til dit inventory.
-info-cha-greward-added: Global præmie added til dit inventory.
-info-cha-eco-reward-added: Penge præmie er added til din konto.
-info-cha-geco-reward-added: Global penge added til din konto, tjek /balance for at se dine penge.
+info-cha-reward-added: Du har fået en præmie!.
+info-cha-greward-added: Global præmie tilføjet til dit inventory.
+info-cha-eco-reward-added: Penge præmie er tilføjet til din konto.
+info-cha-geco-reward-added: Global penge tilføjet til din konto, tjek /balance for at se dine penge.
 info-cha-item-missing: Præmie mangler, ikke i stand til at udføre.
 info-cha-no-req-item: Denne challeng har ingen præmie.
 info-cha-list-header: '&b--------- Challenges: %from%/%max% ---------'
@@ -128,29 +128,29 @@ info-party-request: Party anmodning sendt til %name%. Venter på svar...
 info-party-need-answer: '%name% ønsker at blive medlem af dit party. Skriv &b/island join&a til at bekræfte anmodning'
 info-party-joined: Joined %name%'s party
 info-party-joined-owner: Player %name% er addede til dit party
-info-party-joined-admin-player: Admin added dig til %name%'s party
-info-party-joined-admin-owner: Admin added %name% til dit party
+info-party-joined-admin-player: Admin tilføjet dig til %name%'s party
+info-party-joined-admin-owner: Admin tilføjet %name% til dit party
 info-delete-added: Er du sikker? Skriv &b/is delete&a igen til at bekræft sletning af din ø.
 info-teleported: Teleported.
 info-teleport-after: Teleporting efter %time% sec. Ikke rør dig!
 info-admin-teleported: Admin teleporterede til din ø.
 info-telporting: Teleporting...
-info-tp-wait: Allerede ventenden på teleport.
-info-tp-to-island: Teleported til %name% ø.
+info-tp-wait: teleportere dig ventvenligst.
+info-tp-to-island: Teleportede til %name% ø.
 info-home-set: Home placering sat.
 info-homes: 'Dine homes: &b%list%'
 info-home-deleted: Hjem %name% slettet.
-info-entered: Entered %name% ø.
-info-quitted: Forladt ø.
+info-entered: Du er på %name%'s ø.
+info-quitted: Forladt en ø.
 info-points: Din ø har optjent: %points% points.
 info-for-points: '%name% ø points: %points%.'
-info-rank: 'Best øer:'
+info-rank: 'Beste øer:'
 info-rank-last: 'Sidste rank update:'
-info-rank-island: For at beregne din ø point, brug kommandoen: &b/island calc&a
-info-player-leave: Player %name% forlod din party/ø.
-info-island-opened: Din ø er åbne for alle, nu kan players besøge den uden din tilladelse, så længe du er på serveren.
-info-island-opened-offline: Din ø er åbne for alle, nu kan players besøge den uden din tilladelse (offline).
-info-island-closed: Din ø er nu lukkede. Du må nu accepter anmodninger.
+info-rank-island: For at beregne dine ø point, brug kommandoen: &b/island calc&a
+info-player-leave: Player %name% forlod dit party/ø.
+info-island-opened: Din ø er åbne for alle, nu kan spillere besøge den uden din tilladelse, så længe du er på serveren.
+info-island-opened-offline: Din ø er åben for alle, nu kan players besøge den uden din tilladelse, også når du er offline.
+info-island-closed: Din ø er nu lukkede. Du skal nu acceptere anmodninger.
 info-visits-blocked: Besøgende er nu blokeret på din ø.
 info-visits-allowed: Besøgende er nu tilladt på din ø.
 info-extend-ok: 'Din ø bliver forlænget med: %spacing%.'
