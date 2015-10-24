@@ -62,10 +62,10 @@ error-home-limit: Du kan ikke sætte flere end %count% homes.
 error-no-home: '%name% er ikke en af dine homes.'
 error-is-no-home: Din ø har ingen homes.
 error-outside-island: Du er udenfor din ø.
-error-invalid-biome: 'Error, forkert biome: %biome%.'
-error-rank-not-updated: Error, rank not updated, check your (mysql) configuration.
+error-invalid-biome: 'Fejl, forkert biome: %biome%.'
+error-rank-not-updated: Fejl, rank ikke opdateret, tjek din (mysql) konfiguration.
 error-tp-not-safe: Der er problemer med dit home. Prøv og skriv /is fixhome eller skrive på forum.everpvp.com under Skyblock.
-error-sethome-loc: CKan ikke sætte home her. Du skal havde solid overflade.
+error-sethome-loc: Kan ikke sætte home her. Du skal stå på en solid overflade.
 error-already-opened: Din ø er allerede åben.
 error-already-closed: Din ø er allerede låst.
 error-create-limit: Du har opnået en limit (%limit%). Du kan ikke lave flere øer.
