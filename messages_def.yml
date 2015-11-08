@@ -11,10 +11,10 @@ error-schematic-not-exists: Den valgte plan (%name%) findes ikke!
 error-current-world: Du kan du kan ikke bruge denne kommando, i denne verden.
 error-delay: Vent venligst (%time% min) før du kan bruge denne kommando igen.
 error-calc-delay: Vent venligst (%time% min) før du kan bruge denne kommando igen.
-error-no-free: Der er ikke flere tomme øer. Gå ind på forum.everpvp.dk og skriv det under Skyblock!
-error-get-free: Der er et problem med de tomme øer. Gå ind på forum.everpvp.dk og skriv det under Skyblock!
+error-no-free: Der er ikke flere tomme øer. 
+error-get-free: Der er et problem med de tomme øer. 
 error-helping: Du kan ikke lave din egen ø, da du allerede er medlem af en anden ø.
-error-wg-region: Der er et problem med WorldGuard Protect Region på din ø. Gå ind på forum.everpvp.dk og skriv det under Skyblock!
+error-wg-region: Der er et problem med WorldGuard Protect Region på din ø. 
 error-no-island-party: Du har ikke en ø, eller et party.
 error-outside: Du kan ikke sætte home lokation ude fra din egen ø.
 error-expell: Ingen spillere er på denne ø.
@@ -30,7 +30,7 @@ error-tp-no-party: Du har ikke tilladelse til at teleportere til %name%'s ø.
 error-tp-no-island: Spiller %name% har ikke en ø.
 error-no-player: Du prøver at teleportere til en forkert spiller.
 error-leave: Du kan ikke forlade et party, da du ikke medlem af et.
-error-fixhome: Der er et problem med koordinaterne. Gå ind på forum.everpvp.dk og skriv det under Skyblock! 
+error-fixhome: Der er et problem med koordinaterne. 
 error-cha: Der er et problem med denne udfordring.
 error-cha-id: Ukendt udforings ID.
 error-cha-order: Kan ikke afslutte %id%. Bliv færdig med den tidligere udfordring først.
