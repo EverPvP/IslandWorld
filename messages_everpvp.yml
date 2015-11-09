@@ -83,7 +83,7 @@ info-deleted: Ø er blevet fjernet.
 info-loc-changed: Lokation ændret.
 info-expell: Du bortvise %count% spiller fra din ø.
 info-expelled: Du blev bortvis fra %name%'s ø.
-info-expell-op: %name% kan ikke bortvises
+info-expell-op: "%name% kan ikke bortvises"
 info-add-ok: Spiller %name% blev tilføjet til din ø.
 info-added-ok: Spiller %name% tilføjede dig til hans ø.
 info-remove-ok: Spiller %name% blev fjernet fra din ø.
@@ -126,7 +126,7 @@ info-visit-request: Besøgende har sendt en anmodning til %name%.
 info-visit-need-answer: '%name% har anmodet om at besøge din ø. Skriv &b/island accept&a for at acceptere anmodningen, eller &b/island deny&a for at afvise anmodning'
 info-party-request: Party anmodning sendt til %name%. Venter på svar...
 info-party-need-answer: '%name% ønsker at blive medlem af dit party. Skriv &b/island join&a for at bekræfte anmodning'
-info-party-joined: %name%'s sluttede sig til partyet.
+info-party-joined: "%name%'s sluttede sig til partyet."
 info-party-joined-owner: Spiller %name% er sluttede sig til dit party.
 info-party-joined-admin-player: Admin tilføjede dig til %name%'s party.
 info-party-joined-admin-owner: Admin tilføjede %name% til dit party.
@@ -142,11 +142,11 @@ info-homes: 'Dine hjem: &b%list%'
 info-home-deleted: Hjem %name% slettet.
 info-entered: Du er på %name%'s ø.
 info-quitted: Du forlod en ø.
-info-points: Din ø har optjent: %points% point.
-info-for-points: '%name%'s ø har: %points% point.'
+info-points: "Din ø har optjent: %points% point."
+info-for-points: "%name%'s ø har: %points% point."
 info-rank: 'Bedst rangerede øer:'
 info-rank-last: 'Sidste rank update:'
-info-rank-island: For at beregne dine point på din ø, skal du bruge kommandoen: &b/island calc&a
+info-rank-island: "For at beregne dine point på din ø, skal du bruge kommandoen: &b/island calc&a"
 info-player-leave: Spiller %name% forlod dit party/ø.
 info-island-opened: Din ø er åben for alle. Nu kan spillere besøge den uden tilladelse, så længe du er på serveren.
 info-island-opened-offline: Din ø er åben for alle, nu kan spillere besøge den, uden tilladelse. Gælder også når du er offline.
@@ -189,7 +189,7 @@ com-command-tp: '&a/is tp &7- teleporterer spiller til din ø.'
 com-command-visit: '&a/is visit &7- anmoder om besøg til ø.'
 com-command-lock: '&a/is lock [PName] &7- lås din ø for specifikke spillere'
 com-command-unlock: '&a/is unlock [PName] &7- lås din ø op for specifikke spillere'
-com-command-calc: '&a/is calc &7- udregn din ø's point.'
+com-command-calc: "&a/is calc &7- udregn din ø's point."
 com-command-rank: '&a/is rank &7- viser bedste rank.'
 com-command-open: '&a/is open &7- åbner ø for besøgende.'
 com-command-close: '&a/is close &7- luk ø for besøgende.'
